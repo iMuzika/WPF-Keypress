@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WPF Keypress", "WPF Keypress.vbproj", "{42C10D43-0B6D-4EE1-8E11-CA1D3C19151E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C10D43-0B6D-4EE1-8E11-CA1D3C19151E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C10D43-0B6D-4EE1-8E11-CA1D3C19151E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C10D43-0B6D-4EE1-8E11-CA1D3C19151E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C10D43-0B6D-4EE1-8E11-CA1D3C19151E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67AF2790-C5AC-4B90-81E2-C5C323982D24}
+	EndGlobalSection
+EndGlobal
